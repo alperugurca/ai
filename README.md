@@ -20,7 +20,7 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 ## Learning Resources
 
 ### Courses
-[Practical Deep Learning](https://course.fast.ai)
+* [Practical Deep Learning](https://course.fast.ai)
 
 ### Books
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
