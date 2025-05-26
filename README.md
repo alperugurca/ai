@@ -11,7 +11,7 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
    - [Courses](#courses)
    - [Books](#books)
    - [YouTube Channels](#youtube-channels)
-2. [Tools & Frameworks](#tools--frameworks)
+2. [Tools](#tools)
 3. [News & Blogs](#news--blogs)
 4. [Communities & Forums](#communities--forums)
 5. [GitHub Repositories](#github-repositories)
@@ -20,24 +20,22 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 ## Learning Resources
 
 ### Courses
-
+[Practical Deep Learning](https://course.fast.ai)
 
 ### Books
-* [Midjourney](https://www.midjourney.com/) AI image generation
-* [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### YouTube Channels
 * [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
 * [Runway](https://runwayml.com/) AI video generation
 
-## Tools & Frameworks
+## Tools
 * [Chat GPT](https://chat.openai.com/)
 * [Gemini](https://gemini.google.com/)
 * [Claude](https://www.anthropic.com/claude)
-* [Taskade](https://www.taskade.com) Build, train, and deploy AI agents to automate tasks, research, and collaborate in real-time
 
 ## News & Blogs
-* [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
+* [Superhuman.ai](https://www.superhuman.ai/)
 
 ## Communities & Forums
 
@@ -58,5 +56,5 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 
 ## Datasets
 
-* [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the question: What happens when machines surpass humans in general intelligence? 
-* [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Hugging Face Datasets](https://huggingface.co/datasets)
