@@ -26,8 +26,7 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### YouTube Channels
-* [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
-* [Runway](https://runwayml.com/) AI video generation
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 
 ## Tools
 * [Chat GPT](https://chat.openai.com/)
@@ -39,20 +38,11 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 
 ## Communities & Forums
 
-* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-* [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way. 
-* [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) is a book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.
-* [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
-* [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
-* [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
-* [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects..
+* [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
 
 ## GitHub Repositories
 
-* [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
-* [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
-* [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
-* [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
+* [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 ## Datasets
 
