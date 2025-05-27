@@ -23,6 +23,7 @@ Yapay Zeka alanında en iyi kurslar, kitaplar, araçlar, çerçeveler (framework
 
 ### Kurslar
 
+* [BTK_Akademi](https://www.btkakademi.gov.tr/)
 ### Kitaplar
 
 ### YouTube
