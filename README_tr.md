@@ -6,6 +6,8 @@ Yapay Zeka alanında en iyi kurslar, kitaplar, araçlar, çerçeveler (framework
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhkaXdzOHZxdTlvNGNqOGptMXllaDVybnA2N3ZqZWk5dnUyN2duNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FHLceGZizDe1xMyiD9/giphy.gif)
 
+## Kapsam
+
 1. [Egitim](#egitim)  
    - [Kurslar](#kurslar)  
    - [Kitaplar](#kitaplar)  
