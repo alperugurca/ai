@@ -1,5 +1,6 @@
 # Artificial Intelligence (AI)
 English | [Turkish](./README_tr.md)  
+
 Artificial Intelligence (AI): The capacity of computers or other machines to exhibit or simulate intelligent behaviour; the field of study concerned with this.  
 A fully curated list of the best courses, books, tools, frameworks, datasets, YouTube channels, communities, GitHub repositories, and news/blog sources in Artificial Intelligence.
 
