@@ -11,6 +11,7 @@ Fuzzy Logic is a system of logic that, unlike classical logic which deals with d
 * [Fuzzy Logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 * [Fuzzy Logic | Introduction](https://www.geeksforgeeks.org/fuzzy-logic-introduction/)
 * [Overview of Fuzzy Logic and its Applications](https://www.youtube.com/watch?v=1kW3VA99408)
+* [Introduction to Fuzzy Inference System](https://nms.kcl.ac.uk/hk.lam/HKLam/images/HKLam/Introduction%20to%20Fuzzy%20Inference%20Systems.pdf)
 
 ## Quotes
 > Both degrees of truth and probabilities range between 0 and 1 and hence may seem identical at first, but fuzzy logic uses degrees of truth as a mathematical model of vagueness, while probability is a mathematical model of ignorance.
