@@ -3,7 +3,7 @@
 Fuzzy Logic is a system of logic that, unlike classical logic which deals with definite true or false (1 or 0) distinctions, accepts intermediate values like "partially true" or "somewhat so.
 
 **Branches**:
-[Machine Learning](./machinelearning.md) | [Fuzzy Logic](./fuzzylogic.md)
+[Main](./README.md) | [Machine Learning](./machinelearning.md) | [Fuzzy Logic](./fuzzylogic.md)
 
 ## Sources
 * [An Introduction to Fuzzy Logic](https://www.youtube.com/watch?v=rln_kZbYaWc)
