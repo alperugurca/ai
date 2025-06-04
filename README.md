@@ -1,5 +1,7 @@
 # Artificial Intelligence (AI)
-English | [Turkish](./README_tr.md)  
+
+**Branches**  
+[Fuzzy Logic](./README_tr.md) |
 
 Artificial Intelligence (AI): The capacity of computers or other machines to exhibit or simulate intelligent behaviour; the field of study concerned with this.  
 A fully curated list of the best courses, books, tools, frameworks, datasets, YouTube channels, communities, GitHub repositories, and news/blog sources in Artificial Intelligence.
@@ -15,7 +17,6 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 2. [Tools](#tools)
 3. [News & Blogs](#news--blogs)
 4. [Communities & Forums](#communities--forums)
-5. [GitHub Repositories](#github-repositories)
 6. [Datasets](#datasets)
 
 ## Learning Resources
@@ -40,10 +41,6 @@ A fully curated list of the best courses, books, tools, frameworks, datasets, Yo
 ## Communities & Forums
 
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning)
-
-## GitHub Repositories
-
-* [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 ## Datasets
 
