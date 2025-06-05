@@ -14,6 +14,7 @@
 2. [News & Blogs](#news--blogs)
 3. [Communities & Forums](#communities--forums)
 4. [Datasets](#datasets)
+5. [Visual Media](#visual-media)
 
 ## Tools
 * [Chat GPT](https://chat.openai.com/)
@@ -31,3 +32,6 @@
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Hugging Face Datasets](https://huggingface.co/datasets)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets/)
+
+## Visual Media
+* [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095)
