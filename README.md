@@ -17,7 +17,7 @@
 5. [Visual Media](#visual-media)
 
 ## Tools
-* [Chat GPT](https://chat.openai.com/)
+* [ChatGPT](https://chat.openai.com/)
 * [Claude](https://www.anthropic.com/claude)
 * [Copilot](https://copilot.microsoft.com/)
 * [Gemini](https://gemini.google.com/)
