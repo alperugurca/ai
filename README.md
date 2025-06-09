@@ -1,7 +1,7 @@
 # Artificial Intelligence (AI)
 
 **Branches**:  
-[Machine Learning](./machinelearning.md) | [Fuzzy Logic](./fuzzylogic.md)
+[Main](./README.md) | [Machine Learning](./machinelearning.md) | [Fuzzy Logic](./fuzzylogic.md) | [Evolutionary Computation](./evolutionarycomputation.md)
 
 **Artificial Intelligence (AI): The capacity of computers or other machines to exhibit or simulate intelligent behaviour; the field of study concerned with this.**
 
