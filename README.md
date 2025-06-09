@@ -21,6 +21,7 @@
 * [Claude](https://www.anthropic.com/claude)
 * [Copilot](https://copilot.microsoft.com/)
 * [Gemini](https://gemini.google.com/)
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
 ## News & Blogs
 * [Superhuman.ai](https://www.superhuman.ai/)
