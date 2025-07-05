@@ -1,19 +1,10 @@
-Python: https://www.python.org/
-
-Python: https://realpython.com/python-basics/
-
-Python: https://www.tutorialspoint.com/python/index.htm
-
-Python Temelleri: https://www.learnpython.org/
-
-Python Temelleri: https://www.programiz.com/python-programming
-
-Python kodlama pratiği ve sınavı: https://www.sanfoundry.com/
-
-Numpy: https://numpy.org/
-
-Matplotlib: https://matplotlib.org/
-
-Pandas: https://pandas.pydata.org/
-
-Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
+* [Python](https://www.python.org/)
+* [Python](https://realpython.com/python-basics/)
+* [Python](https://www.tutorialspoint.com/python/index.htm)
+* [Python Temelleri](https://www.learnpython.org/)
+* [Python Temelleri](https://www.programiz.com/python-programming)
+* [Python kodlama pratiği ve sınavı](https://www.sanfoundry.com/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
