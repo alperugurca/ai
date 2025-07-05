@@ -1,7 +1,7 @@
 * [Python](https://www.python.org/)
 * [RealPython](https://realpython.com/python-basics/)
 * [tutorialspointPython](https://www.tutorialspoint.com/python/index.htm)
-* [Python Temelleri](https://www.learnpython.org/)
+* [learnpythonPython Temelleri](https://www.learnpython.org/)
 * [Python Temelleri](https://www.programiz.com/python-programming)
 * [Python kodlama pratiği ve sınavı](https://www.sanfoundry.com/)
 * [Numpy](https://numpy.org/)
