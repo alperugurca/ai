@@ -1,6 +1,6 @@
 * [Python](https://www.python.org/)
-* [Python](https://realpython.com/python-basics/)
-* [Python](https://www.tutorialspoint.com/python/index.htm)
+* [RealPython](https://realpython.com/python-basics/)
+* [tutorialspointPython](https://www.tutorialspoint.com/python/index.htm)
 * [Python Temelleri](https://www.learnpython.org/)
 * [Python Temelleri](https://www.programiz.com/python-programming)
 * [Python kodlama pratiği ve sınavı](https://www.sanfoundry.com/)
